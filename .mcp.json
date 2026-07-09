@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ansvar": {
+      "type": "http",
+      "url": "https://gateway.ansvar.eu/mcp"
+    }
+  }
+}
