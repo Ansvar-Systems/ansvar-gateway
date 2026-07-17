@@ -17,6 +17,8 @@ Every result carries a source citation (`_citation`: URL, publisher, licence) â€
 | **Setup guides** (Claude, Copilot Studio, Gemini, custom clients) | https://ansvar.eu/setup |
 | **Pricing** | Free tier (B2B signup, 100 searches/day) â†’ https://ansvar.eu/pricing |
 | **Coverage** | https://ansvar.eu/coverage |
+| **Privacy policy** | https://ansvar.eu/privacy |
+| **Terms** | https://ansvar.eu/terms |
 | **llms.txt** | https://ansvar.eu/llms.txt |
 
 Claude Desktop / Claude Code / any MCP client that supports remote servers: add `https://gateway.ansvar.eu/mcp` as a remote MCP server and complete the OAuth flow. Free-tier signup is in-flow.
