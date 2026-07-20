@@ -2,7 +2,7 @@
 
 **EU regulatory intelligence over MCP — law, regulations, standards & threat intel, every answer cited or refused.**
 
-Ansvar Gateway is a **remote MCP server** for compliance, legal, and security work. One OAuth connection gives your agent scoped `search` and `get_provision` across audited European law corpora (27 jurisdictions live), the EU regulations corpus (GDPR, NIS2, DORA, AI Act, CRA — 98 instruments), 262 security frameworks, and live CVE/KEV/EPSS intelligence.
+Ansvar Gateway is a **remote MCP server** for compliance, legal, and security work. One OAuth connection gives your agent scoped `search` and `get_provision` across audited law corpora — Europe-led, with growing North American and APAC coverage; the live, licence-audited jurisdiction list is at [ansvar.eu/coverage](https://ansvar.eu/coverage) — plus the EU regulations corpus (GDPR, NIS2, DORA, AI Act, CRA, …), the security-frameworks corpus, and live CVE/KEV/EPSS intelligence.
 
 Every result carries a source citation (`_citation`: URL, publisher, licence) — answers are cited from fetched text or explicitly refused, never guessed from model memory. Paid tiers add full-fleet fan-out, case law / preparatory works / agency guidance, and structured workflows (DPIA, STRIDE/LINDDUN, gap analysis) that return exportable deliverables.
 
